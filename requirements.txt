@@ -1,0 +1,4 @@
+numpy==1.15.4
+opencv-python
+opencv-contrib-python
+Pillow
